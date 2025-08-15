@@ -21,7 +21,7 @@ async def forbidden(ctx, *args):
 
 @client.command()
 async def test(ctx, *args):
-    await ctx.send("test")
+    await ctx.send("test2")
 
 
 client.run(config.TOKEN)
