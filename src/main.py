@@ -20,7 +20,7 @@ async def forbidden(ctx, *args):
 
 
 @client.command()
-async def test(ctx, *args):
+async def testx3(ctx, *args):
     await ctx.send("test3")
 
 
